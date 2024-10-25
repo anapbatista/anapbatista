@@ -9,14 +9,15 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
 ##
 <br>
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&theme=tokyonight&include_all_commits=true" />
-  </a>
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapbatista&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=320" />
-  </a>
+  <!--github stats-->
+<div align="center" style="display: inline">
+   <a href="https://github.com/AecioJose">
+   <div style="display: inline_block">
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapbatista&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+   </div>
+</div>
 
-##
 <br>
 
 <div> 
