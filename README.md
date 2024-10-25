@@ -2,6 +2,10 @@
 
 - 🌱 Estudando Ciência de Dados (Learning Data Cience)
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - USP
+- Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️
+Este repositório do GitHub serve como um espaço onde compartilho projetos, experiências de aprendizado e realizações ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! ⚙️👣👩‍💻
+
+  ##
 
 <!--github stats-->
 <div align="center" style="display: inline">
