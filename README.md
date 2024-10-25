@@ -8,7 +8,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapbatista&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=220" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapbatista&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=120" />
 </a>
 </div>
 
