@@ -1,22 +1,24 @@
 ## Olá!! Eu sou a Ana Paula Batista
-
+<br>
 - 🌱 Estudando Ciência de Dados (Learning Data Cience)
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - USP
 - Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️
+
 Este repositório do GitHub serve como um espaço onde compartilho projetos, experiências de aprendizado e realizações ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! ⚙️👣👩‍💻
 
-  ##
+##
+<br>
 
-<!--github stats-->
-<div align="center" style="display: inline">
-   <a href="https://github.com/AecioJose">
-   <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapbatista&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
-   </div>
-</div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200  align="center" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapbatista&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=320" />
+  </a>
 
 ##
+<br>
+
 <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
   <a href="https://instagram.com/anapbatista_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
