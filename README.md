@@ -3,12 +3,14 @@
 - 🌱 Estudando Ciência de Dados (Learning Data Cience)
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - USP
 
+<div style="display: flex; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&theme=tokyonight&include_all_commits=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapbatista&layout=compact&langs_count=8&theme=tokyonight&card_width=120" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anapbatista&layout=compact&langs_count=8&theme=tokyonight&size_weight=0.5&count_weight=0.5&card_width=320" />
 </a>
+</div>
 
 ##
 <div> 
