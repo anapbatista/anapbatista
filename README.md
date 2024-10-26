@@ -1,6 +1,6 @@
 ## Olá!! Eu sou a Ana Paula Batista
 
-- 🌱 Estudando Ciência de Dados (Learning Data Cience)
+- 🌱 Estudando Ciência de Dados
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - USP
 - Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️
 
