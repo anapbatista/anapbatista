@@ -35,6 +35,6 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake.svg">
-  [![GitHub Ana Paula](https://img.shields.io/github/followers/anapbatista?label=follow&style=social)](https://github.com/anapbatista)
+  [![GitHub Ana Paula]( https://img.shields.io/github/followers/anapbatista?label=follow&style=social)](https://github.com/anapbatista)
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake.svg">
 </picture>
