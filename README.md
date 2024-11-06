@@ -3,6 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=anapbatista&color=006bed)
 [![GitHub Ana Paula]( https://img.shields.io/github/followers/anapbatista?label=follow&style=social)](https://github.com/anapbatista)
 
+
 - 🎓 &nbsp; Graduanda em Ciência de Dados em <a href="https://www5.usp.br/">USP</a>
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - <a href="https://www5.usp.br/">USP</a>
 - Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️
@@ -29,9 +30,12 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
  	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
  <!--<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:anapdeabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anapaula-batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/anapaula-batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
   
 </div>
+
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake-dark.svg">
