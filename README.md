@@ -1,7 +1,9 @@
 ## Olá!! Eu sou a Ana Paula Batista
 
-- 🌱 Estudando Ciência de Dados
-- 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - USP
+![](https://komarev.com/ghpvc/?username=anapbatista&color=006bed)
+
+- 🎓 &nbsp; Graduanda em Ciência de Dados em <a href="https://www5.usp.br/">USP</a>
+- 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - <a href="https://www5.usp.br/">USP</a>
 - Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️
 
 Este repositório do GitHub serve como um espaço onde compartilho projetos, experiências de aprendizado e realizações ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! ⚙️👣👩‍💻
@@ -33,5 +35,6 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake.svg">
+  [![GitHub Ana Paula](https://img.shields.io/github/followers/anapbatista?label=follow&style=social)](https://github.com/anapbatista)
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/anapbatista/anapbatista/output/github-contribution-grid-snake.svg">
 </picture>
