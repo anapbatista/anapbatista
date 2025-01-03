@@ -6,7 +6,7 @@
 
 - 🎓 &nbsp; Graduanda em Ciência de Dados em <a href="https://www5.usp.br/">USP</a>
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - <a href="https://www5.usp.br/">USP</a>
-- Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️
+- Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️ e corrida 🏃🏼‍♀️‍➡️
 
 Este repositório do GitHub serve como um espaço onde compartilho projetos, experiências de aprendizado e realizações ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! ⚙️👣👩‍💻
 
@@ -17,8 +17,8 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
 <div align="center" style="display: inline">
    <a href="https://github.com/AecioJose">
    <div style="display: inline_block">
-      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anapbatista&show_icons=true&include_all_commits=true&count_private=true&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d1c89a&icon_color=5aa2c9"/>
-      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapbatista&layout=compact&langs_count=7&bg_color=151515&border_color=9C4E6A&title_color=d7d8c0&text_color=d5e5e4&icon_color=5aa2c9"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anapbatista&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars"/>
+      <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anapbatista&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
    </div>
 </div>
 
@@ -30,7 +30,7 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
  	<!--<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>-->
  <!--<a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> -->
   <a href = "mailto:anapdeabreu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/anapaula-batista" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/anapaulabatista-" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   
 </div>
