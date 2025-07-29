@@ -12,15 +12,15 @@ Este repositório do GitHub serve como um espaço onde compartilho projetos, exp
 
 ##
 
-
-  <!--github stats-->
+<!--github stats-->
 <div align="center" style="display: inline">
-   <a href="https://github.com/AecioJose">
+   <a href="https://github.com/anapbatista">
    <div style="display: inline_block">
       <img height="175em" src="https://github-readme-stats.vercel.app/api?username=anapbatista&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF&hide=stars"/>
-      <img height="175em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anapbatista&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+      <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anapbatista&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF&icon_color=30A3DC"/>
    </div>
 </div>
+
 
 ##
 
