@@ -6,6 +6,7 @@
 
 - 🎓 &nbsp; Graduanda em Ciência de Dados em <a href="https://www5.usp.br/">USP</a>
 - 🔭 Monitora em Linguagem Python no Projeto Meninas Programadoras - <a href="https://www5.usp.br/">USP</a>
+- 🔎 Pesquisadora de Iniciação Científica na área de previsão de séries temporais com Machine Learning
 - Além de tecnologia, gosto de cantar 🎤 e praticar crossfit 🏋️‍♀️ e corrida 🏃🏼‍♀️‍➡️
 
 Este repositório do GitHub serve como um espaço onde compartilho projetos, experiências de aprendizado e realizações ao longo da minha jornada. Sinta-se à vontade para explorar e acompanhar meu progresso! ⚙️👣👩‍💻
